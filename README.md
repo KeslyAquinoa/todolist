@@ -42,7 +42,3 @@ E é isso\! A aplicação será carregada e você poderá começar a usá-la.
 ## 📄 Licença
 
 Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
-
------
-
-Espero que este `README` ajude a documentar seu projeto de forma eficaz no GitHub\!
