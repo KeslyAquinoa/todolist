@@ -2,7 +2,9 @@
 
 Este é um projeto simples de uma aplicação de lista de tarefas (`To-Do List`) construída com **HTML**, **CSS** e **JavaScript** puro. O objetivo do projeto é demonstrar a manipulação do DOM (Document Object Model) e o uso do `localStorage` para persistência de dados no navegador.
 
-![Foto da aplicação]{Captura de tela 2025-08-31 114335.png}
+<p style="text-align: center;">
+   <img  width="487" height="372" alt="ftodoapp" src="https://github.com/user-attachments/assets/bb66f72d-681c-42e0-b1d1-db7cfa459175" />
+</p>
 
 ## ✨ Funcionalidades
 
